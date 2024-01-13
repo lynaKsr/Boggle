@@ -17,6 +17,6 @@ Ce projet implémente un assistant du jeu Boggle en C++, avec une conception ori
 - ArbresEtJeuxDeLettres.cpp : Le fichier source contenant la fonction main et les tests pour le jeu.
   
 # Utilisation
-Compiler le projet en utilisant un système de build comme make.
+Compiler le projet en utilisant make.
 
 Le projet a été développé dans le cadre d'un TP universitaire (Master Informatique - Conception Orientée Objets, Université de Poitiers, Année 2023-2024).
